@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61043532553",
+    "project_id": "grit-fitness-c6d7e",
+    "storage_bucket": "grit-fitness-c6d7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61043532553:android:125b8ce7c7d4e0de62a9d8",
+        "android_client_info": {
+          "package_name": "com.example.grit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvoAyGq3VoCoaPHL54e-ajqjrJUII1rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
